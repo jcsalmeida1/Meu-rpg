@@ -1,0 +1,61 @@
+
+    body{
+        font-family: "Crimson Text", "Times New Roman", serif; 
+        background-color: #F2FFFC; font-family: 20px;
+        
+    }
+    .principal{
+       
+        width: 85%;
+        padding-bottom: 80px;
+        list-style: none; 
+       
+       }
+
+  
+nav#link{
+    display:block;
+   
+
+  
+   
+}
+ul{
+    
+    text-transform: uppercase;
+    display:block;
+    position: absolute;
+    top:-20px;
+    left: 480px;
+    list-style: none;
+   
+  
+  }
+ 
+li{
+    display: inline-block;
+    padding: 10px;
+    margin: 2px;
+    background-color: #dddddd;
+    
+    
+}
+
+
+p{
+        font-family: "Open Sans Condensed", "Arial", sans-serif;
+        font-size: 20px;
+        float: right;
+        box-sizing: border-box;
+        text-align: justify;
+        margin-right: 250px;
+        
+       
+
+    }
+    h1{
+        font-family: "Open Sans Condensed", "Arial", sans-serif;
+        font-size: 20px;
+    }
+
+
