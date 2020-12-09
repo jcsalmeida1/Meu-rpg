@@ -1,0 +1,59 @@
+/* reset */
+*,
+*:after,
+*:before {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+}
+
+body {
+	font-family: Arial, helvetica, sans-serif;
+	line-height: 1.4;
+}
+
+header {
+	background: #f0f0f0;
+	width: 100%;
+}
+
+
+/* busca */
+
+/* categorias */
+.noticias {
+	color: black;
+}
+.esportes {
+ color: black;
+}
+.famosos {
+	color: black;
+	
+}
+
+.menu-principal {
+	font-weight: bold;
+	list-style-type: none;
+	}
+	.menu-principal a {
+		display: block;
+		padding-right: 1em;
+		margin-right: 1em;
+
+		line-height: 1;
+		text-decoration: none;
+		text-transform: lowercase;
+	}
+		.menu-principal a:hover {
+			opacity: 0.8;
+		}
+
+
+/* lista de notícias */
+
+
+
+/* direita da TV */
